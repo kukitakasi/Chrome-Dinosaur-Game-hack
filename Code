@@ -1,1 +1,1 @@
-Runner.Instant_.gameover => {}
+Runner.Instant_.gameover = () => {}
